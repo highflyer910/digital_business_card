@@ -26,4 +26,4 @@ Contributions are welcome! If you find a bug or have suggestions, open an issue 
 
 ## License
 
-[MIT License](LICENSE)
+MIT
