@@ -10,12 +10,12 @@ export default function Footer(){
                     </a>
                 </li>
                 <li>
-                    <a href="https://facebook.com/thea910" target="_blank">
+                    <a href="#" target="_blank">
                     <i className="fab fa-facebook-square" aria-hidden="true"></i>
                     </a>
                 </li>
                 <li>
-                    <a href="https://instagram.com/thea910" target="_blank">
+                    <a href="#" target="_blank">
                     <i className="fab fa-instagram" aria-hidden="true"></i>
                     </a>
                 </li>
